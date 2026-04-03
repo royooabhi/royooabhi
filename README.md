@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src= alt="Git Banner" width="100%" />
+  <img src="https://github.com/royooabhi/royooabhi/blob/c8dd4201300cdbf8531fc7ad00cb6e980a8ae41a/assests/Design.png" alt="Git Banner" width="100%" />
 </p>
 
 
