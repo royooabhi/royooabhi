@@ -57,13 +57,11 @@ Git • GitHub • VS Code • Postman • Vercel
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=royooabhi&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royooabhi&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=royooabhi&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royooabhi&theme=nord_dark" />
 </div>
 
 ---
@@ -72,7 +70,7 @@ Git • GitHub • VS Code • Postman • Vercel
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=royooabhi&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=royooabhi&theme=nord)](https://git.io/streak-stats)
 
 </div>
 
