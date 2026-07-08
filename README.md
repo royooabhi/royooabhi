@@ -78,29 +78,15 @@ Git • GitHub • VS Code • Postman • Vercel
 
 ## ⚡ Recent GitHub Activity
 <div align="center">
-
-[![ABHIJEET's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=royooabhi&theme=nord&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img
+    width="80%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=royooabhi&theme=nord&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 ---
 
-## 🎯 Focus for 2026
-
-- Improve problem-solving consistency  
-- Work with real datasets  
-- Build strong data analysis skills  
-- Strengthen core CS fundamentals  
-
----
-
-## 💡 Interests
-
-- Data Science  
-- Data Analytics  
-- Web Development  
-- Problem Solving  
-
----
 
 ## 🤝 Connect
 
