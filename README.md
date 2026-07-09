@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABHIJEET KUMAR ROY</h1>
+<h1 align="center">Hi, I'm ABHIJEET KUMAR ROY</h1>
 
 <h3 align="center">Data Science Student | Data Analytics Learner | Focused on Practical Problem Solving</h3>
 
@@ -22,9 +22,9 @@
 
 ## 🚀 About Me
 
->I'm a Computer Science student building a strong base in **Data Science and Data Analytics**.
+I'm a Computer Science student building a strong base in **Data Science and Data Analytics**.
 
-I focus more on understanding data and extracting meaningful insights rather than just theoretical learning.
+>I focus more on understanding data and extracting meaningful insights rather than just theoretical learning.
 
 Current focus areas:
 - Data analysis using Python  
